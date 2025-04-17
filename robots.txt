@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://laleworks.github.io/DAM-DAW/sitemap.xml
