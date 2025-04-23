@@ -1,3 +1,5 @@
+# Sitemap arriba para que los bots lo detecten inmediatamente
+Sitemap: https://laleworks.github.io/DAM-DAW/sitemap.xml
+# Permitir todo el rastreo
 User-agent: *
 Allow: /
-Sitemap: https://laleworks.github.io/DAM-DAW/sitemap.xml
