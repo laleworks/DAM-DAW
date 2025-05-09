@@ -1,16 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://laleworks.github.io/DAM-DAW/</loc>
-    <!-- Fecha de última modificación -->
-    <lastmod>2025-04-23</lastmod>
-    <!-- Frecuencia estimada de cambios -->
+    <loc>https://laleworks.github.io/DAM-DAW/index.html</loc>
+    <lastmod>2025-05-10</lastmod>
     <changefreq>monthly</changefreq>
-    <!-- Prioridad de la URL -->
     <priority>1.00</priority>
   </url>
-  <!-- 
-    Añade aquí más <url>…</url> si en el futuro incluyes otras páginas,
-    sustituyendo loc, lastmod, changefreq y priority según corresponda.
-  -->
 </urlset>
